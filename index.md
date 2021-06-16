@@ -8,7 +8,6 @@
       <img src="/image.JPG" alt="Wenxuan Tu" width="160px" height="201.6px" />&nbsp;
     </td>
     <td align="left">
-      <p>P.h.D Candidate</p>
       <p WxTu.github.io>PRMI Group, College of Computer, National University of Defense Technology</p>
       <p>Email: wenxuantu@163.com, twx@nudt.edu.cn</p>
       <p>Address: Sanyi Road, Kaifu District, Changsha, Hunan, China</p>
