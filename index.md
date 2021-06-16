@@ -5,7 +5,7 @@
 <table class="imgtable">
   <tr>
     <td>
-      <img src="/noimage.JPG" alt="Wenxuan Tu" width="160px" height="201.6px" />&nbsp;
+      <img src="/noimage.JPG" alt="Junpu Zhang" width="160px" height="201.6px" />&nbsp;
     </td>
     <td align="left">
       <p junpuzhang.github.io>PRMI Group, College of Computer, National University of Defense Technology</p>
@@ -39,21 +39,11 @@
   </ul>
 
 ### Awards
-  <ul>
+   <ul>
     <li> 
-      <p>Excellent Graduated Graduate Student of Hunan Province, 2020</p>
-    </li>
-  </ul>
-  <ul>
-    <li> 
-      <p>Future Cup College AI Challenge，1st Place in Central China & Southern China, 2018  </p>
-    </li>
-  </ul>
-<ul>
-    <li> 
-      <p>Future Cup College AI Challenge，3rd Place in National Finals, 2018 </p>
+      <p align = "justify"> no </p>
     </li>
   </ul>
 
 ### Contact
-<p>Any discussions or concerns are welcomed! [wenxuantu@163.com], [twx@nudt.edu.cn]</p>
+<p>Any discussions or concerns are welcomed! [zhangjunpu@nudt.edu.cn]</p>
