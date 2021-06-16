@@ -10,6 +10,7 @@
     <td align="left">
       <p junpuzhang.github.io>PRMI Group, College of Computer, National University of Defense Technology</p>
       <p>Email: zhangjunpu@nudt.edu.cn</p>
+      <p>Email: zhangjunpu@nudt.edu.cn</p>
       <p>Address: Sanyi Road, Kaifu District, Changsha, Hunan, China</p>
       <p>[<a href="https://github.com/junpuzhang">Github</a>]
     </td>
