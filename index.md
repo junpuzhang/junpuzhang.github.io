@@ -5,7 +5,7 @@
 <table class="imgtable">
   <tr>
     <td>
-      <img src="/image.jpg" alt="Junpu Zhang" width="160px" height="201.6px" />&nbsp;
+      <img src="/image.jpg" alt="Junpu Zhang" width="160px" height="224px" />&nbsp;
     </td>
     <td align="left">
       <p junpuzhang.github.io>PRMI Group, College of Computer, National University of Defense Technology</p>
